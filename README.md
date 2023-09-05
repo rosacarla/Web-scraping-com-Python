@@ -17,13 +17,13 @@ Projeto de web-scraping para obter dados da Internet com a utilização de bilbi
 ---  
 
 ## Licença  
-MIT  
+Distribuído sob a licença MIT. Veja `LICENSE`para informações adicionais. 
 
 ---  
 
-## Autora  
-Carla Edila Silveira  
-rosa.carla@pucpr.edu.br  
+## Contato
+Autora: Carla Edila Silveira  
+E-mail: rosa.carla@pucpr.edu.br  
 
 ---
 
