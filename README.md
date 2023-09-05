@@ -3,7 +3,7 @@
 Projeto de web-scraping para obter dados da Internet com a utilização de bilbiotecas do Python  
 <body>
   <center>
-  <img src="https://i.postimg.cc/kXsZg1rB/web-scraping-python.png" align="middle" height="68%" width="68%">    
+  <img src="https://i.postimg.cc/pTRRznK2/web-scraping-python.png" align="middle" height="68%" width="68%">    
   </center>
 </body>
 
