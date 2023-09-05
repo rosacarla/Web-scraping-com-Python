@@ -1,6 +1,6 @@
 # Web-scraping com Python  
 
-Projeto de web-scraping para obter dados da Internet com a utilização de bilbioteca do Python  
+Projeto de web-scraping para obter dados da Internet com a utilização de bilbiotecas do Python  
 <body>
   <center>
   <img src="https://i.postimg.cc/kXsZg1rB/web-scraping-python.png" align="middle" height="68%" width="68%">    
